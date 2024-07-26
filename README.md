@@ -9,7 +9,7 @@ Run server.js in terminal. Open web browser http://localhost:3001/notes
 ## Questions 
 If you have questions check out my github wickedDan or you can email me at daniel@wickedflow.com;
 ## Screenshots
-
+![Note Taker](https://github.com/user-attachments/assets/fe0e9d36-1a84-407f-8a48-c46989af4b6a)
 ## Deployment Link
 https://wickeddan.github.io/Note-Taker-Mod11/
 ## License
